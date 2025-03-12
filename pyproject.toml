@@ -25,6 +25,9 @@ dependencies = [
     "tensorflow",
     "torch",
     "transformers",
+    "kagglehub",
+    "plotly",
+    "missingno"
 ]
 
 [project.optional-dependencies]
