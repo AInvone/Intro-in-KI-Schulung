@@ -62,6 +62,7 @@ dev = [
 
 [tool.uv]
 exclude-newer = "P3D"  # "3 days" in RFC 3339 format
+exclude-newer-package = { virtualenv = "P0D" }
 
 [tool.codespell]
 skip = "*.ipynb, *.rst, *.svg, *.txt"
