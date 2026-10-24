@@ -20,7 +20,7 @@ Unreleased
 Changed
 ~~~~~~~
 
-* **Dokumentation:** Projekt-URLs und README auf Repository AInvone/Intro-in-KI-Schulung umgestellt; PDF-Pfad auf ``docs/_build/latex/AITutorial.pdf`` korrigiert.
+* **Dokumentation:** PDF-Pfad auf ``docs/_build/latex/AITutorial.pdf`` korrigiert.
 * **Dokumentation:** Beschreibung in pyproject.toml auf „Einführung in KI“ (ML, Deep Learning, RL, GenKI) erweitert.
 * **Dokumentation:** Indices und Tabellen (genindex, modindex, search) auf der Startseite wieder aktiviert.
 * **Dokumentation:** Tag-4-Toctree neu sortiert: GenAI-Einführung/Theorie/Infrastruktur/LLM zuerst, dann Ensemble & Churn, dann Agents, Regulatorik, Abschluss.

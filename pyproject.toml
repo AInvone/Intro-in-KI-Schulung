@@ -57,8 +57,8 @@ dev = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/AInvone/Intro-in-KI-Schulung/"
-"Bug Tracker" = "https://github.com/AInvone/Intro-in-KI-Schulung/issues"
+"Homepage" = "https://github.com/cusyio/ai-tutorial/"
+"Bug Tracker" = "https://github.com/cusyio/ai-tutorial/issues"
 
 [tool.uv]
 exclude-newer = "P3D"  # "3 days" in RFC 3339 format
